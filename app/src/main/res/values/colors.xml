@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--普通按钮文字颜色-->
+<resources>
+    <color name="buttom_color">#4B0082</color>
+</resources>
