@@ -2,7 +2,7 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent"
               android:orientation="vertical"
-              android:background="#6aE9967A"
+              android:background="@color/button_bg"
     >
 
     <!--标题-->
@@ -11,8 +11,8 @@
         android:layout_height="50dp"
         android:text="计算器"
         android:textSize="18sp"
-        android:textColor="#fff"
-        android:background="#FA8072"
+        android:textColor="@color/top_title_txt"
+        android:background="@color/top_title_bg"
         android:gravity="center"
         />
 
